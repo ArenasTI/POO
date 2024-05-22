@@ -50,7 +50,7 @@ JugarDeNuevo = 1; //Necesario cambiarlo para que funcione correctamente
 do //Do
 {	
 	printf ("{--------------------------------------------------------------------------------------------------------}\n");
-	printf("Inserte el tamano del mapa para empezar el juego (se recomienda utilizar Num pad para mejor control): "); //Tamaño del mapa
+	printf("Inserte el tamano del mapa para empezar el juego (se recomienda utilizar Num pad para mejor control): "); //TamaÃ±o del mapa
 	scanf("%d", &Tam); //Detectar
 	printf ("{--------------------------------------------------------------------------------------------------------}\n");
 	
