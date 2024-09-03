@@ -1,6 +1,6 @@
-package tp1;
+package Ejercicios;
 
-public class Ejercicios {    
+public class Ejercicios_Java {    
     public static void main(String[] args) {
         // Parte 1: Números del 1 al 100 e informar si el número es par
         System.out.println("Números del 1 al 100 y si son pares:");
