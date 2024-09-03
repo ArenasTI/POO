@@ -8,6 +8,11 @@ public class Main {
             }
         }
 
+
+
+
+
+
         // Parte 2: Números del 50 al 100 e informar si el número es primo o sus divisores
         System.out.println("\nNúmeros del 50 al 100 y si son primos o sus divisores:");
         for (int i = 50; i <= 100; i++) {
@@ -19,6 +24,14 @@ public class Main {
             }
         }
 
+
+
+
+
+
+
+
+
         // Parte 3: Pedir números hasta que uno sea mayor a 100 y primo
         System.out.println("\nIntroduce números (se detendrá cuando uno sea mayor a 100 y primo):");
         java.util.Scanner scanner = new java.util.Scanner(System.in);
@@ -29,6 +42,14 @@ public class Main {
 
         System.out.println(num + " es mayor a 100 y es primo.");
 
+
+
+
+
+
+
+
+
         // Parte 4: Calculadora con operaciones aritméticas simples
         System.out.println("\nCalculadora simple:");
         System.out.println("Introduce dos números:");
@@ -38,6 +59,15 @@ public class Main {
         char operation = scanner.next().charAt(0);
         double result = calculate(num1, num2, operation);
         System.out.println("Resultado: " + result);
+
+
+
+
+
+
+
+
+
 
         // Parte 5: Ejemplo del uso del for-each
         System.out.println("\nEjemplo de uso del for-each:");
